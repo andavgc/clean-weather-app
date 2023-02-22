@@ -1,3 +1,8 @@
+##Final layout:
+![weather-app](https://user-images.githubusercontent.com/110830067/220690744-0e33ad3c-cb38-4675-bf89-b8df2196f13e.jpeg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
