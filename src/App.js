@@ -7,6 +7,8 @@ import Forecast from './components/forecast/forecast';
 
 function App() {
 
+  console.log(process.env)
+
   const [currentWeather, setCurrentWeather] = useState(null);
   const [forecast, setForecast] = useState(null);
 
