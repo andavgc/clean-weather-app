@@ -22,7 +22,11 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-#sensitive
+# dotenv environment variables file
+.env
+.env.test
+
+
 ./src/api.js
 src/api.js
 api.js
