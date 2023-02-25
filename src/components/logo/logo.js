@@ -1,5 +1,5 @@
 import './logo.css';
-import logo from "../../assets/clean_wheater.png"
+import logo from "../../assets/clean_weather.png"
 
 
 const Logo = () => {
