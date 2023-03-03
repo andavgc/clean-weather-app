@@ -1,7 +1,7 @@
 # Clean Wheater App script with ReactJS
 
 This repository contains the script for "Clean Wheater" app, that you can visit here: https://clean-wheater.vercel.app/
-A simple wheater app built with react and the APIs from GeoDB and Openweather
+A simple wheater app built with react, using the APIs from GeoDB and Openweather and the Bootstrap and asyncpaginate packages.
 
 ## Final layout:
 ![weather-app](https://user-images.githubusercontent.com/110830067/220690744-0e33ad3c-cb38-4675-bf89-b8df2196f13e.jpeg)
